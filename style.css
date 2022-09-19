@@ -365,6 +365,9 @@ html {
     .trend-content .card .box{
         padding: 18px;
     }
+    .trend .trend-content p{
+        font-size: 14px;
+    }
 }
  /* TREND end*/
 /* explore */
