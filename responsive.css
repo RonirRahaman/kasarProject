@@ -1,0 +1,39 @@
+.h-primary{
+    font-size: 40px;
+}
+/* ---------------menu list start--------------------- */
+.menu-list .box {
+    max-width: 30vh;
+}
+.menu-list{
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+/* ---------------special ocassion start--------------------- */
+
+#s-ocassion-section .p-ocassion{
+    font-size: 1.5rem;
+    width: 350px;
+    height: auto;
+}
+.s-ocassion-section{
+    background: url("s-occasionbg-rs.jpg") no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#s-ocassion-section .s-ocassion {
+    padding: 60px;
+}
+/* ---------------party celebration section starts---------------------- */
+#p-celeb-section .p-pceleb{
+    font-size: 1.3rem;
+    width: 350px;
+    height: auto;
+}
+/* -------------------- */
+#contact-section .p-contact{
+    font-size: 1.5rem;
+    width: 350px;
+    height: auto;
+}
