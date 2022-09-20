@@ -688,11 +688,15 @@ justify-content: space-between;
     .about{
         background: #fbf4ee;
     }
+    .about .about-content .right .text {
+        font-size: 22px;
+    }
     .about .about-content .column {
         width: 50%;
     }
     .about .about-content .right p {
         margin-top: 5px;
+        font-size: 13px;
     }
 
     .about .about-content .left {
